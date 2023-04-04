@@ -1,13 +1,17 @@
-<h1>Hi, I'm Meshach, an <a href="https://linkedin.com/in/msimotwo">IT Professional</a>☺</h1>
+<h1>Hi, I'm Meshach, an <a href="https://linkedin.com/in/msimotwo">IT Professional.</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System Installation)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/msimotwo/osticket-prereqs)
+- <b>VPN (Setup and Installation)</b>
+  - [VPN Setup and Installation](https://github.com/msimotwo/vpn)
+- <b> How to Uprade a Windowws VM through Azure</b>
+  - [Existing Windows VM Upgrade](https://github.com/msimotwo/vmupgradeazure)
 - <b>Microsoft Azure</b>
   - [Acquiring a MS Azure Subscription](https://github.com/msimotwo/mszuresubscription)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/msimotwo/azure-network-protocols)
-  - [Understanding Resource Groupos and VM's]
+  - [Understanding Resource Groups and VM's](https://github.com/msimotwo/osticket-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
