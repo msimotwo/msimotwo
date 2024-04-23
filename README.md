@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System Installation)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/msimotwo/osticket-prereqs)
+- <b>How to setup a Reverse Shell Lab in Linux</b>
+  - [Reverse Shell Tutorial (Linux)](https://github.com/msimotwo/osticket-prereqs)
 - <b>VPN (Setup and Installation)</b>
   - [VPN Setup and Installation](https://github.com/msimotwo/vpn)
 - <b> How to Uprade a Windowws VM through Azure</b>
