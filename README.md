@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>How to setup a Reverse Shell Lab in Linux</b>
-  - [Reverse Shell Tutorial (Linux)](https://github.com/msimotwo/osticket-prereqs)
+  - [Reverse Shell Tutorial (Linux)](https://github.com/msimotwo/ReverseShellTut))
 - <b>VPN (Setup and Installation)</b>
   - [VPN Setup and Installation](https://github.com/msimotwo/vpn)
 - <b> How to Uprade a Windowws VM through Azure</b>
