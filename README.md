@@ -1,6 +1,6 @@
 <h1>Hi, I'm Meshach, an <a href="https://linkedin.com/in/msimotwo">IT/Cybersecurity Professional.</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology / Cybersecurity Projects 👨‍💻</h2>
 <h4>ALL projects are for educational purposes and are NOT intended for malicious purposes!</h4>
 
 - <b>Zero Trust Architecture (ZTA)</b>
